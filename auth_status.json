@@ -2,7 +2,7 @@
   "accounts": [
     {
       "id": "20251019_NUIST",
-      "status": "NO",
+      "status": "ALLOW",
       "until": "2029-12-01",
       "remarks": "南信合作"
     }
